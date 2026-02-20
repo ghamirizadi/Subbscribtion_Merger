@@ -5,4 +5,5 @@
 curl -fsSL https://raw.githubusercontent.com/ghamirizadi/Subbscribtion_Merger/main/install.sh | sudo bash
 
 ## Run
+```bash
 sudo v2subagg
