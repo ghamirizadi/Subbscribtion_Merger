@@ -43,7 +43,7 @@ After adding links, select option:
 Example output:
 
 ```
-http://YOUR_SERVER_IP:8443/merged
+http://YOUR_SERVER_IP:8443/1111
 ```
 
 You can paste this URL directly into:
@@ -157,7 +157,7 @@ sudo v2subagg
 نمونه خروجی:
 
 ```
-http://IP_SERVER:8443/merged
+http://IP_SERVER:8443/1111
 ```
 
 این لینک را می‌توانید مستقیم داخل برنامه‌های زیر وارد کنید:
@@ -236,7 +236,7 @@ http://IP_SERVER:8443/merged
 |------|--------|
 | `/opt/v2subagg` | اسکریپت تجمیع |
 | `/etc/v2subagg/config.json` | تنظیمات |
-| `/var/www/sub/merged.txt` | خروجی Base64 |
+| `/var/www/sub/1111.txt` | خروجی Base64 |
 | `/usr/local/bin/v2subagg` | برنامه مدیریتی |
 
 ---
