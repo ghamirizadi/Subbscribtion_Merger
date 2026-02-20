@@ -3,3 +3,6 @@
 ## Install (one-liner)
 ```bash
 curl -fsSL https://raw.githubusercontent.com/ghamirizadi/Subbscribtion_Merger/main/install.sh | sudo bash
+
+## Run
+sudo v2subagg
